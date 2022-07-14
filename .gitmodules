@@ -7,7 +7,7 @@
 	url = https://github.com/mono/guiunit.git
 [submodule "main/external/libgit-binary"]
 	path = main/external/libgit-binary
-	url = https://github.com/mono/libgit-binary.git
+	url = https://github.com/Duy-Thanh/libgit-binary.git
 	branch = vs-8.0-v0.26.8
 [submodule "main/external/libgit2"]
 	path = main/external/libgit2
